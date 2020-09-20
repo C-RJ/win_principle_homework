@@ -28,5 +28,6 @@ url = https://自己的用户名:自己的密码@github.com/hddevteam/ServerMoni
 团队资源管理器->同步->操作->打开命令指示符
 
 git push -u origin_gitee master -f
-强制推送一次后，即可
-以后只需正常分别向origin和origin——gitee推送即可。
+
+强制推送一次后即可,
+以后只需正常分别向origin和origin_gitee推送。
