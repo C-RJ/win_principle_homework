@@ -18,3 +18,6 @@ url = https://github.com/hddevteam/ServerMonitor-for-UWP.git
 为
 url = https://自己的用户名:自己的密码@github.com/hddevteam/ServerMonitor-for-UWP.git
 这里的“hddevteam”网上可能有不同的说法，这个是我们的团队名，个人开发的话是自己的用户名，一般不需要改。
+
+
+push to gitee
