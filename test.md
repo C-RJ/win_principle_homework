@@ -31,5 +31,3 @@ git push -u origin_gitee master -f
 
 强制推送一次后即可,
 以后只需正常分别向origin和origin_gitee推送。
-
-install vs2019 PREVIEW
